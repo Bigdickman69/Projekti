@@ -1,0 +1,112 @@
+body { 
+     margin: 0;
+    background-color: skyblue;
+  }
+  H2 {
+    position: relative;
+    left: 25px;
+    color: purple;
+  }
+  .topDiv {
+    text-align: center;
+    background-color: pink;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    }
+  .midDiv {
+    position: fixed;
+    top: 15%;
+    width: 800px;
+    height: 230px;
+    left: 250px;
+    background-color: pink;
+    }
+  #fname1 {
+    position: relative;
+    left: 25px;
+    width: 750px;
+  }
+  #name1 {
+    position: relative;
+    left: 25px;
+  }
+  #fname2 {
+    position: relative;
+    top:15px;
+    left: 25px;
+    width: 750px;
+  }
+  #name2 {
+    position: relative;
+    top:15px;
+    left: 25px;
+  }
+  #submitinfo {
+    background-color: black;
+    color: white;
+    text-align:center;
+    border-radius: 5px;
+    border: 3px solid black;
+    position: relative;
+    left: 25px;
+    top:35px;
+    width: 750px;
+  }
+  .bottomDiv {
+    position: fixed;
+    top: 53%;
+    left: 225px;
+  }
+  .form1Div {
+    background-color: lightgray;
+    position: fixed;
+    top: 63%;
+    width: 750px;
+    left: 300px;
+    height: 30px;
+  }
+  #box {
+    position: relative;
+    top: 5px;
+  }
+  .form2Div {
+  background-color: lightgray;
+  position: fixed;
+  top: 69%;
+  width: 750px;
+  left: 300px;
+  height: 30px;
+  }
+  .form3Div {
+  background-color: lightgray;
+  position: fixed;
+  top: 75%;
+  width: 750px;
+  left: 300px;
+  height: 30px;
+  }
+  .form4Div {
+  background-color: lightgray;
+  position: fixed;
+  top: 81%;
+  width: 750px;
+  left: 300px;
+  height: 30px;
+  }
+  .mark {
+    position: fixed;
+    top: 87%;
+    left: 250px;
+  }
+  #markinfo {
+    background-color: black;
+    color: white;
+    text-align:center;
+    border-radius: 5px;
+    border: 3px solid black;
+    position: relative;
+    top:10px;
+    height:40px;
+    width: 800px;
+  }
